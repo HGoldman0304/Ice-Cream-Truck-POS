@@ -14,16 +14,6 @@ This project is a Python-based Ice Cream Truck Point-of-Sale (POS) application d
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
 Video walk-through: <br/>
-https://i.imgur.com/QxNjVTQ.mp4
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+[Watch Video Here](https://i.imgur.com/QxNjVTQ.mp4)
